@@ -1,0 +1,77 @@
+C:\Users\Ghost\Desktop\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.deps.json
+C:\Users\Ghost\Desktop\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\Ghost\Desktop\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\Ghost\Desktop\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.dll
+C:\Users\Ghost\Desktop\Songify\Songify.Common\obj\Debug\net8.0\refint\Songify.Common.dll
+C:\Users\Ghost\Desktop\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.pdb
+C:\Users\Ghost\Desktop\Songify\Songify.Common\obj\Debug\net8.0\ref\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.deps.json
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfoInputs.cache
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfo.cs
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.csproj.CoreCompileInputs.cache
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Common\obj\Debug\net8.0\refint\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Common\obj\Debug\net8.0\ref\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.deps.json
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfoInputs.cache
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfo.cs
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.csproj.CoreCompileInputs.cache
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\refint\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\ref\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.deps.json
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfoInputs.cache
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfo.cs
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.csproj.CoreCompileInputs.cache
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\refint\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Common\obj\Debug\net8.0\ref\Songify.Common.dll
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.deps.json
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.dll
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\refint\Songify.Common.dll
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.pdb
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\ref\Songify.Common.dll
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.deps.json
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.dll
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\refint\Songify.Common.dll
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.pdb
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\ref\Songify.Common.dll
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.deps.json
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Common\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfoInputs.cache
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.AssemblyInfo.cs
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.csproj.CoreCompileInputs.cache
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\refint\Songify.Common.dll
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Common\obj\Debug\net8.0\ref\Songify.Common.dll

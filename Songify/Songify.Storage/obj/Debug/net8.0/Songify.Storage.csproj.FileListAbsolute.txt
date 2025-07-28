@@ -1,0 +1,119 @@
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.deps.json
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.runtimeconfig.json
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.dll
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.pdb
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.AssemblyReference.cache
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\obj\Debug\net8.0\Songify..BF23F3AB.Up2Date
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.dll
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\obj\Debug\net8.0\refint\Songify.Storage.dll
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.pdb
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.genruntimeconfig.cache
+C:\Users\Ghost\Desktop\Songify\Songify.Storage\obj\Debug\net8.0\ref\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.deps.json
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.runtimeconfig.json
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.pdb
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.AssemblyReference.cache
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfoInputs.cache
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfo.cs
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.CoreCompileInputs.cache
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.CopyComplete
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\obj\Debug\net8.0\refint\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.pdb
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.genruntimeconfig.cache
+C:\Users\maxsp\source\repos\Songify\Songify\Songify.Storage\obj\Debug\net8.0\ref\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.deps.json
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.runtimeconfig.json
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.pdb
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.AssemblyReference.cache
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfoInputs.cache
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfo.cs
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.CoreCompileInputs.cache
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.CopyComplete
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\refint\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.pdb
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.genruntimeconfig.cache
+C:\Users\maxsp\source\repos\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\ref\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.deps.json
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.runtimeconfig.json
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.pdb
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.AssemblyReference.cache
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfoInputs.cache
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfo.cs
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.CoreCompileInputs.cache
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.CopyComplete
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\refint\Songify.Storage.dll
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.pdb
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.genruntimeconfig.cache
+C:\Users\maxsp\source\repos\Songify Edited\Songify(1)\Songify\Songify.Storage\obj\Debug\net8.0\ref\Songify.Storage.dll
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.deps.json
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.runtimeconfig.json
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.dll
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.pdb
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.AssemblyReference.cache
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify..BF23F3AB.Up2Date
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.dll
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\refint\Songify.Storage.dll
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.pdb
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.genruntimeconfig.cache
+C:\Users\Ghost\Desktop\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\ref\Songify.Storage.dll
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.deps.json
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.runtimeconfig.json
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.dll
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.pdb
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.AssemblyReference.cache
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify..BF23F3AB.Up2Date
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.dll
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\refint\Songify.Storage.dll
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.pdb
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.genruntimeconfig.cache
+C:\Users\Ghost\Desktop\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\ref\Songify.Storage.dll
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.deps.json
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.runtimeconfig.json
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.dll
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Storage.pdb
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.dll
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\bin\Debug\net8.0\Songify.Common.pdb
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.AssemblyReference.cache
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfoInputs.cache
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.AssemblyInfo.cs
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.CoreCompileInputs.cache
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.csproj.CopyComplete
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.dll
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\refint\Songify.Storage.dll
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.pdb
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\Songify.Storage.genruntimeconfig.cache
+C:\Users\maxsp\source\repos\SongifyAgain\SongifyAgain\Songify\Songify.Storage\obj\Debug\net8.0\ref\Songify.Storage.dll
